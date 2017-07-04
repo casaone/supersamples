@@ -1,6 +1,6 @@
 ![logo](https://raw.github.com/rprieto/supersamples/master/logo.png)
 
-Documentation and samples for your Node.js RESTful API
+Forked from super samples with a quick fix for json responses
 
 [![NPM](http://img.shields.io/npm/v/supersamples.svg?style=flat)](https://npmjs.org/package/supersamples)
 [![License](http://img.shields.io/npm/l/supersamples.svg?style=flat)](https://github.com/rprieto/supersamples)
